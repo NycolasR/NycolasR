@@ -2,7 +2,6 @@
 
 - 🔭 Analista Desenvolvedor Jr.
 - 🌱 Estudando Angular
-- 😄 Pronomes: ele/dele
 
 ##
 
