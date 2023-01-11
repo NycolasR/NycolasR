@@ -1,6 +1,6 @@
 ## ✌ Olá! Meu nome é Nycolas R. Alves
 
-- 🔭 Analista Desenvolvedor Jr.
+- 🔭 Analista Desenvolvedor Pleno
 - 🌱 Estudando Angular
 
 ##
